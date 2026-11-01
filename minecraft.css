@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+    .lista-container {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+
+/*******************************************************************************
+ * MECANISMO DE AVALIAÇÃO METACOGNITIVA 
+ *
+ * 1. Desafio Técnico: Qual foi a regra CSS mais difícil de aplicar e como
+ *    conseguiste superar essa dificuldade?
+ *    Resposta:A parte mais chata a class na div da lista para não estargaro resto do site. No início baralhei-me um bocado com os pontos e os nomes, mas pesquisei como se fazia e acabei por conseguir.
+ *
+ * 2. Correção de Sintaxe: Durante os teus testes no browser, detetaste com
+ *    certeza algum erro que te tenha obrigado a voltar ao Notepad++ para corrigir.
+ *    Qual foi o teu erro mais comum?
+ *    Resposta: Sim, o normal de me esquecer de meter um ponto e vírgula no fim de uma linha CSS ou de fechar mal uma tag no HTML. Qundo abria o site, via logo que o estilo não tinha aplicado e tive de ir corrigir.
+ *
+ * 3. Autoria: Escolhe apenas um dos atributos que usaste (href ou src) e
+ *    explica pelas tuas próprias palavras, num único parágrafo, para que serve.
+ *    Resposta: O atributo "href" serve para indicar o endereço do site para onde queremos que o utilizador vá quando carrega na hiperligação.
+ *******************************************************************************/
+
